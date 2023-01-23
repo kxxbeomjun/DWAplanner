@@ -1,7 +1,7 @@
 # DWAplanner
 ### Dynamic window approach 
 
-#####version 1.0.0
+##### version 1.0.0
 
 ```
 $ git clone https://github.com/kxxbeomjun/DWAplanner.git
